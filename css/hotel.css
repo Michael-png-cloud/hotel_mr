@@ -1,0 +1,13 @@
+.bg-nav-color{
+    background-color: rgb(95, 15, 15);
+}
+
+.txt-nav-color{
+    color: rgba(255, 255, 255, 0.55);
+}
+
+html, body, nav{
+    margin: 0 ;
+    width: 100vw;
+    padding: 0 !important;
+}
